@@ -94,7 +94,7 @@ mark {background-color:black; color:white;}
     color: #212120;
     border-radius: 5px;
     border: none;
-    margin-bottom: 32px;
+    margin-bottom: 32px !important;
     cursor: pointer;
     font-size: 20px;
 }
