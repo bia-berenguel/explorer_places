@@ -94,7 +94,7 @@ mark {background-color:black; color:white;}
     color: #212120;
     border-radius: 5px;
     border: none;
-    margin-top: rem;
+    margin: 16px;
     cursor: pointer;
     font-size: 20px;
 }
@@ -102,11 +102,6 @@ mark {background-color:black; color:white;}
 h2{
     text-align: center;
     margin-top: 1rem;
-}
-
-.btn{
-   background-color: #f4943c; 
-   border: #f4943c;
 }
 
 
