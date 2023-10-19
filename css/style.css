@@ -46,7 +46,7 @@
 }
 
 .background-banner-home{
-    background: rgba(3, 0, 12, 0.514)url(/img/banner-home.jpg);
+    background: rgba(3, 0, 12, 0.514)url(../img/banner-home.jpg);
     background-blend-mode: darken;
     background-position: center;
     background-size: cover;
